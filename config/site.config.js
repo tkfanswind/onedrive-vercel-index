@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
+    {
+      name: 'Telegram',
+      link: 'https://t.me/tkfans',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
