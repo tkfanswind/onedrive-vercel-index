@@ -68,7 +68,7 @@ module.exports = {
       link: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jygQ60zAWgqe5ZQtODPkkO2-QLdDrfdd&authKey=4WMdr7%2BX6efBAQ6Twc6cBrQs6980dsb1eSXEK3QpAnSQWaL9GGHJuOvDgjXnNu6b&noverify=0&group_code=4097583',
     },
     {
-      name: 'fa-music',
+      name: 'Music',
       link: 'https://tkfans.ml',
     }
   ],
