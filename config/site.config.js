@@ -69,7 +69,7 @@ module.exports = {
     },
     {
       name: 'itunes',
-      link: 'https://tkfans.ml',
+      link: 'https://tkfans.cf',
     }
   ],
 
